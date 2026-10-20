@@ -1,3 +1,7 @@
+# Java-Find-Highest-Student-in-School
+
+Java Problem-Solving Challenge: Student Results Management
+
 ## Compile and run
 
 From the project directory, compile the Java source files:
