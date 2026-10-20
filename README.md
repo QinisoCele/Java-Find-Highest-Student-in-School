@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Java-Find-Highest-Student-in-School
+
 Java Problem-Solving Challenge: Student Results Management
-=======
+
 ## Compile and run
 
 From the project directory, compile the Java source files:
@@ -27,4 +27,3 @@ java School
 - Added error handling for invalid marks.
 - Warns the user when no students are assigned to a class.
 - Fixed a logic error when a class has two students.
->>>>>>> origin/master
