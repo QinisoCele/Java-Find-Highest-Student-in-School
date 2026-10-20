@@ -1,0 +1,26 @@
+Java Problem-Solving Challenge: Student Results Management
+
+A school needs a program to manage the marks of its learners.
+
+The school has multiple classes, for example, Grade 12A, Grade 12B and Grade 12C.
+Each class contains several learners, and each learner has a name and a mark for an assessment.
+
+Develop a Java program that allows the school to:
+
+Keep track of learners and their marks in the appropriate classes.
+Add learners and update their marks.
+
+Display all learners and their marks for a particular class.
+Calculate the average mark for a particular class.
+Identify the learner or learners with the highest mark in a particular class.
+
+Compare the average marks of different classes.
+Identify the learner or learners with the highest mark across all classes in the school.
+
+Consider how your program should handle invalid marks, missing records, and situations where multiple learners achieve the same highest mark.
+
+Your solution should accommodate changes in the number of classes and learners without requiring fundamental changes to the program.
+
+Use sample data to demonstrate the functionality of your solution.
+
+Be prepared to explain and justify your design decisions.
