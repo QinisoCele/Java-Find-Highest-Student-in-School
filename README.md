@@ -1,6 +1,18 @@
 # Java-Find-Highest-Student-in-School
 
-Java Problem-Solving Challenge: Student Results Management
+## Problem Description
+
+This Java project models a school results system for multiple classes such as Grade 12A, Grade 12B, and Grade 12C. Each class contains learners, and each learner has a name and an assessment mark. The program is designed to help the school manage learner records efficiently by allowing it to:
+
+- keep track of students and their marks in the correct class,
+- add new learners and update existing marks,
+- display all learners and their marks for a specific class,
+- calculate the average mark for any class,
+- identify the learner or learners with the highest mark in a class,
+- compare average marks across different classes,
+- find the highest-scoring learner or learners across the entire school.
+
+The solution also considers invalid marks, missing records, and situations where multiple learners achieve the same top score. It is built to accommodate changes in the number of classes and learners without requiring major redesign. Sample data is used to demonstrate the full functionality of the program.
 
 ## Compile and run
 
