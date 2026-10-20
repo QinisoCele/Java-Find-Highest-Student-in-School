@@ -6,16 +6,14 @@ The school has multiple classes, for example, Grade 12A, Grade 12B and Grade 12C
 Each class contains several learners, and each learner has a name and a mark for an assessment.
 
 Develop a Java program that allows the school to:
-Student Class
+
 Keep track of learners and their marks in the appropriate classes.
 Add learners and update their marks.
 
-Grade Class
 Display all learners and their marks for a particular class.
 Calculate the average mark for a particular class.
 Identify the learner or learners with the highest mark in a particular class.
 
-School Class
 Compare the average marks of different classes.
 Identify the learner or learners with the highest mark across all classes in the school.
 
